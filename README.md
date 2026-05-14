@@ -119,5 +119,7 @@ Logic Gate Simulation
 
 ## Author
 Nalabothu Sai Srinivasa Ganesh
+
 B.Tech Student 
+
 VLSI Internship Task
