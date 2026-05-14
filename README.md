@@ -95,7 +95,7 @@ Half Adder is a combinational circuit used to add two single-bit binary numbers.
 | 1 | 0 | 1 | 0 |
 | 1 | 1 | 0 | 1 |
 
-Simulation Screenshots:
+**###Simulation Screenshots:**
 Logic Gate Simulation
 ![Logic Gates] (Circuits.png)
 
